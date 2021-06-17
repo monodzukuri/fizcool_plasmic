@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[288],{8517:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return a}});var r=n(7294),u=n(5836);function a(){return r.createElement(u.ZP,{projectId:"dh92ZwjUsDxRQCMT1p7q2t",component:"Pricing"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-pricing-tsx-8f9d783cdd95c526a471.js.map
